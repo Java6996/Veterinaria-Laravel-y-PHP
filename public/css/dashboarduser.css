@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.logout{
+    margin-top: 20px;
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(0, 153, 255);
+    background-color: white;
+}
+.logout:hover{
+    margin-top: 20px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(0, 153, 255);
+    
+}
+.dashboard{
+    margin-right: 20%;
+    margin-top: 20px;
+    padding: 10px;
+    text-decoration: none;
+    color: rgb(0, 153, 255);
+    background-color: white;
+}
+.dashboard:hover{
+    margin-right: 20%;
+    margin-top: 20px;
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+    background-color: rgb(0, 153, 255);
+}
